@@ -17,7 +17,7 @@
 
 - 💬 Ask me about ****Web Development****
 
-- 📫 How to reach me ****<a href="mahatadibyendu4@gmail.com">EMAIL</a> OR <a href="https://www.linkedin.com/in/dibyendu-mahata/">LINKEDIN</a>.****
+- 📫 How to reach me **mahatadibyendu4@gmail.com** OR ****<a href="https://www.linkedin.com/in/dibyendu-mahata/">LINKEDIN</a>.****
 
 - 📄 Know about my experiences **<a href="https://github.com/DIBYENDU4/DIBYENDU4/blob/main/DIBYENDU%20CV.pdf">RESUME</a>.**
 
