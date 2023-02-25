@@ -22,7 +22,7 @@
 - 📄 Know about my experiences **<a href="https://github.com/DIBYENDU4/DIBYENDU4/blob/main/DIBYENDU%20CV.pdf">RESUME</a>.**
 
 <h3 align="Center">Connect with me:</h3>
-<p align="left">
+<p align="Center">
 <a href="https://twitter.com/dibyendu_4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dibyendu_4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dibyendu-mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyendu-mahata" height="30" width="40" /></a>
 <a href="https://fb.com/dibyendu.mahata.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dibyendu.mahata.52" height="30" width="40" /></a>
