@@ -1,7 +1,7 @@
-![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
+![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 <h1 align="center">Hi 👋, I'm Dibyendu Mahata</h1>
 <h3 align="center">A passionate Front-End Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendu4&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendu4" /> </p>
 
