@@ -23,7 +23,7 @@
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
-<a href="https://twitter.com/dibyendu_4" target="blank"><img align="center" src="https://iconpacks.net/?utm_source=link-attribution&utm_content=2429" alt="dibyendu_4" height="30" width="40" /></a>
+<a href="https://twitter.com/dibyendu_4" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="dibyendu_4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dibyendu-mahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyendu-mahata" height="30" width="40" /></a>
 <a href="https://fb.com/dibyendu.mahata.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dibyendu.mahata.52" height="30" width="40" /></a>
 <a href="https://instagram.com/dibyendu9064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibyendu9064" height="30" width="40" /></a>
